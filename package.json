@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalheads/testing.git"
+  },
+  "keywords": [],
+  "author": "Orestes Carracedo <orestes.ca@gmail.com> (https://orestes.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalheads/testing/issues"
+  },
+  "homepage": "https://github.com/metalheads/testing#readme"
+}
